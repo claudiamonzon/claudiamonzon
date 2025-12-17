@@ -1,4 +1,4 @@
-# Hola, soy Claudia <img width="141" height="134" alt="image" src="https://github.com/user-attachments/assets/f18753be-a8e0-4f84-8b98-6e4a4b682c41" />
+# Hola, soy Claudia <img width="41" height="34" alt="image" src="https://github.com/user-attachments/assets/f18753be-a8e0-4f84-8b98-6e4a4b682c41" />
 ## Sobre mi
 - Actualmente me encuentro cursando el tercer año de la carrera Licenciatura en Sistemas en la Universidad Nacional de Entre Ríos.
 - Me interesa profundamente el análisis y ciencia de datos.
